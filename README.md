@@ -27,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RahulPatilll/LC/tree/master/3455-minimum-length-of-string-after-operations) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RahulPatilll/LC/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RahulPatilll/LC/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
