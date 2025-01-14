@@ -14,10 +14,10 @@ class Solution:
                 while s and prices[i] < s[-1]:
                     s.pop()
 
-                if s:
+                if s == []:
+                    ans.append(prices[i])   
+                else:
                     ans.append(prices[i] - s[-1])
-                elif s == []:
-                    ans.append(prices[i])
                 s.append(prices[i])
 
             elif prices[i] >= s[-1]:
