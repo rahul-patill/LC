@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
+| [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RahulPatilll/LC/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RahulPatilll/LC/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
@@ -78,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
