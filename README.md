@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RahulPatilll/LC/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
 |  |
@@ -86,4 +88,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
