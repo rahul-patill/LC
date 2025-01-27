@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
@@ -24,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,5 +113,10 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
