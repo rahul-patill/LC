@@ -3,7 +3,7 @@ class Solution:
         s = e = 0
         n = len(nums)
         sum = 0
-        ans = 10**6
+        ans = float("inf")
 
         while(e<n):
             sum += nums[e]
@@ -19,7 +19,7 @@ class Solution:
                 
             
             e+=1
-        if (ans == 10**6):
+        if (ans == float("inf")):
             return 0
         return ans
 
