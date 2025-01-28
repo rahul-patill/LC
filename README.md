@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
+| [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RahulPatilll/LC/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RahulPatilll/LC/tree/master/0206-reverse-linked-list) |
+| [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Two Pointers
 |  |
 | ------- |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Stack
