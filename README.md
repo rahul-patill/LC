@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
