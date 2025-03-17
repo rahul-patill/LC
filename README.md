@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
 |  |
