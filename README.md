@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
@@ -44,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahul-patill/LC/tree/master/0014-longest-common-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
