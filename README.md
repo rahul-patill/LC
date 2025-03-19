@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-patill/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
