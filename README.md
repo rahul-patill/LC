@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-patill/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
@@ -157,4 +158,12 @@ Collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/rahul-patill/LC/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-patill/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul-patill/LC/tree/master/0145-binary-tree-postorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
