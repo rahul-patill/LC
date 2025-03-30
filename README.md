@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
@@ -35,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0162-find-peak-element](https://github.com/RahulPatilll/LC/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -88,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/rahul-patill/LC/tree/master/0795-k-th-symbol-in-grammar) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -138,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
