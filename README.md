@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-patill/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahul-patill/LC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rahul-patill/LC/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul-patill/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
@@ -141,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
