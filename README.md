@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/rahul-patill/LC/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/rahul-patill/LC/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/rahul-patill/LC/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/rahul-patill/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/rahul-patill/LC/tree/master/0022-generate-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
 ## Greedy
@@ -209,4 +211,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0100-same-tree](https://github.com/rahul-patill/LC/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0104-maximum-depth-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/rahul-patill/LC/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
