@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-patill/LC/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
@@ -229,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
