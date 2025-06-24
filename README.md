@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -188,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/rahul-patill/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rahul-patill/LC/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/rahul-patill/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -218,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0257-binary-tree-paths](https://github.com/rahul-patill/LC/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rahul-patill/LC/tree/master/2384-root-equals-sum-of-children) |
 ## Dynamic Programming
@@ -244,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rahul-patill/LC/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
+| [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
