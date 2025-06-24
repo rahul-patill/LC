@@ -6,27 +6,30 @@
 #         self.right = right
 class Solution:
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        # iterative solution
-        stack = []
-        ans = []
+        # this is using morris traversal
+        # https://www.youtube.com/watch?v=Wq3ibaP4dJY
 
+        result = []
 
-        node = root
+        cur = root
 
-        while (True):
-            # if node is not empty
-            if (node != None):
-                stack.append(node)
-                node = node.left
-            
-            # if you got none at the leaf node
+        while cur:
+
+            if cur.left == None:
+                result.append(cur.val)
+                cur = cur.right
             else:
-                if(len(stack) == 0):
-                    break
-                node = stack.pop()
-                ans.append(node.val)
-                node = node.right
+                leftChild = cur.left
+
+                while leftChild.right:
+                    leftChild = leftChild.right
+                
+                leftChild.right = cur
+
+                # incrementing curr to the left child
+                temp = cur
+                cur = cur.left
+                temp.left = None
         
-        return ans
-            
+        return result
 
