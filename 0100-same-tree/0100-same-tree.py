@@ -16,7 +16,7 @@ class Solution:
 
             if (first == None) and (second == None):
                 continue
-            elif (first == None) or (second == None) or (first.val != second.val):
+            elif (first == None) or (second == None) or(first.val != second.val):
                 return False
 
             queue.append(first.left)
