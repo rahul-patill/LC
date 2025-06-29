@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rahul-patill/LC/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/rahul-patill/LC/tree/master/2384-root-equals-sum-of-children) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -253,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0662-maximum-width-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/rahul-patill/LC/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
