@@ -13,7 +13,7 @@ class Solution:
         while len(q) != 0:
             size = len(q)
             fSize = q[0][1]
-            lSize = q[(len(q) - 1)][1]
+            lSize = q[-1][1]
 
             maxW = max(maxW, lSize - fSize + 1)
 
