@@ -7,41 +7,19 @@
 class Solution:
     def reverseOddLevels(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
         
-        q = [] 
-        q.append(root)
-
-        flag = False
-        #BFS start
-        while q:
-            size = len(q)
-
-            # for each level
-            while size:
-                node = q.pop(0)
-
-                if node.left:
-                    q.append(node.left)
-                
-                if node.right:
-                    q.append(node.right)
+        def solve(node1, node2, level):
+            if not node1 and not node2 :
+                return
             
-                size -= 1
+            if level%2 == 1:
+                temp = node1.val
+                node1.val = node2.val
+                node2.val = temp
             
-            flag = not flag
-            
-            #reversing values in q
-            if flag:
-                i = 0
-                j = len(q)-1
+            solve(node1.left, node2.right, level+1)
+            solve(node1.right, node2.left, level+1)
 
-                while i<j:
-                    temp = q[i].val
-                    q[i].val = q[j].val
-                    q[j].val = temp
-                    
-                    i = i+1
-                    j = j-1
-            
+        # function call
+        solve(root.left, root.right, 1)
+
         return root
-
-
