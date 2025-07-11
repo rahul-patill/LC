@@ -51,6 +51,7 @@ class Solution:
                         visited.add(first.right.val)
                     
                     # parent
+                    # imp dict point here : why cant we use parent[first]?
                     if (parent.get(first)) and (parent[first].val not in visited):
                         q.append(parent[first])
                         visited.add(parent[first].val)
@@ -65,10 +66,6 @@ class Solution:
 
 
             
-    
-
-
-
 
         inOrderP(root)
         return BFS(root, target, k)
