@@ -13,10 +13,11 @@ class Solution:
         
         def inOrder(root):
 
-            if root is None or self.result is not None:
+            if root is None:
                 return
             
             inOrder(root.left)
+            
             self.k -= 1
             if self.k == 0:
                 self.result = root.val
