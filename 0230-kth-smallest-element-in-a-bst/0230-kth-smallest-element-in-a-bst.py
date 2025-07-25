@@ -13,7 +13,7 @@ class Solution:
         
         def inOrder(root):
 
-            if root is None:
+            if root is None or self.result is not None:
                 return
             
             inOrder(root.left)
