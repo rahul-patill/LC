@@ -6,25 +6,16 @@
 #         self.right = right
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
-        iOList = []
+        def isValid(node, low, high):
+            if not node:
+                return True
 
-        def inOrder(root):
-            if not root:
-                return
-            
-            inOrder(root.left)
-            iOList.append(root.val)
-            inOrder(root.right)
+            left = isValid(node.left, low, node.val)
+            if not (low < node.val < high):
+                return False
 
-        
-        inOrder(root)
+            right = isValid(node.right, node.val, high)
 
-        isBst = True
-        for i in range(1,len(iOList)):
-            
-            if iOList[i-1] >= iOList[i]:
-                isBst = False
-                break
-        
-        return isBst
+            return left and right
 
+        return isValid(root, float("-inf"), float("inf"))
