@@ -10,9 +10,11 @@ class Solution:
             if not node:
                 return True
 
-            left = isValid(node.left, low, node.val)
             if not (low < node.val < high):
                 return False
+                
+            left = isValid(node.left, low, node.val)
+            
 
             right = isValid(node.right, node.val, high)
 
