@@ -19,7 +19,7 @@ class Solution:
                     r-=1
         
         for items in ans:
-            print(items)
-            result.append(items)
+            print(list(items))
+            result.append(list(items))
         
         return result
