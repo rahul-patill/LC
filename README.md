@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rahul-patill/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/rahul-patill/LC/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/rahul-patill/LC/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RahulPatilll/LC/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
