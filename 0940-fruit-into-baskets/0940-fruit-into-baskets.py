@@ -5,15 +5,19 @@ class Solution:
         d = dict()
         ans  = 0
 
+        # edge case
         if len(fruits) == 1:
             return 1
 
         while(e<n):
             d[fruits[e]] = d.get(fruits[e], 0) + 1
 
+            if len(d) <2 :
+                e+=1 
             
-            if len(d) == 2  :
+            elif len(d) == 2  :
                 ans = max(ans, e-s+1)
+                e+=1 
 
             elif (len(d) > 2):
 
@@ -24,8 +28,9 @@ class Solution:
                 
                     s+=1
             
-            e+=1
+                e+=1
 
+        # edge case
         if len(d) == 1:
             return d[fruits[0]]
         
