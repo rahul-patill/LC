@@ -16,5 +16,5 @@ class Solution:
             else:
                 e = mid
         
-        return nums[s]
+        return nums[e]
 
