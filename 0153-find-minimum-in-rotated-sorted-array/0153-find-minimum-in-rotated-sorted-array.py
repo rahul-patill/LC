@@ -1,16 +1,20 @@
 class Solution:
     def findMin(self, nums: List[int]) -> int:
+
+
+        if nums[0] <= nums[len(nums)-1]:
+            return nums[0]
+
         s = 0
         e = len(nums)-1
-        mine = 5001
-        while (s<=e):
-            mid = floor(s + (e-s)/2)
+        while (s<e):
+
+            mid = (s + (e-s)//2)
             
-            if (nums[s] <= nums[mid]):
-                mine = min(mine, nums[s])
+            if nums[mid] > nums[e]:
                 s = mid+1
             else:
-                mine = min(mine, nums[mid])
-                e = mid-1
+                e = mid
         
-        return mine
+        return nums[s]
+
