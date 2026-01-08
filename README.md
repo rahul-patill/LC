@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/rahul-patill/LC/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
@@ -55,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/rahul-patill/LC/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
 ## Hash Table
