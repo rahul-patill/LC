@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul-patill/LC/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
 |  |
