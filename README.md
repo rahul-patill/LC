@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul-patill/LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul-patill/LC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul-patill/LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
