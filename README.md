@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul-patill/LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul-patill/LC/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul-patill/LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
@@ -210,12 +212,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
