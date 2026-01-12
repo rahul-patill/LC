@@ -1,19 +1,23 @@
 class Solution:
-    def lengthOfLongestSubstring(self, s: str) -> int:
-        i = j = 0
-        n = len(s)
-        d = set()
-        maxi = 0
-        l = []
-        while(j<n):
-            l.append(s[j])
-            d = set(l)
-            if len(d) == len(l): #we can also use dict > j-i+1 condition and implement it
-                maxi = max(maxi, len(l))
+    def lengthOfLongestSubstring(self, nums: str) -> int:
+        i, j = 0, 0
+        d = defaultdict(int)
+        size = 0
+
+        while j < len(nums):
+
+            d[nums[j]] += 1
+            print(nums[j])
+
+            if len(d) == j - i + 1:
+                size = max(size, j - i + 1)
                 j += 1
-            elif len(d) < len(l):
-                while(len(d) < len(l)):
-                    l.pop(0)
-                    i += 1
+            elif len(d) < j - i + 1:
+                while len(d) < j - i + 1:
+                    d[nums[i]] -= 1
+                    if d[nums[i]] == 0:
+                        d.pop(nums[i])
+                    i+=1
                 j += 1
-        return maxi
+
+        return size
