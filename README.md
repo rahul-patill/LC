@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0747-min-cost-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rahul-patill/LC/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/rahul-patill/LC/tree/master/0875-koko-eating-bananas) |
+| [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/rahul-patill/LC/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/rahul-patill/LC/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul-patill/LC/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -206,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
