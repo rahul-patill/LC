@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/rahul-patill/LC/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/rahul-patill/LC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/rahul-patill/LC/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -220,6 +221,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/rahul-patill/LC/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rahul-patill/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
