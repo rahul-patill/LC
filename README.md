@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/rahul-patill/LC/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-patill/LC/tree/master/0560-subarray-sum-equals-k) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/rahul-patill/LC/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rahul-patill/LC/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rahul-patill/LC/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
