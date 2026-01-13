@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rahul-patill/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rahul-patill/LC/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rahul-patill/LC/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rahul-patill/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/rahul-patill/LC/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/rahul-patill/LC/tree/master/0940-fruit-into-baskets) |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/rahul-patill/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rahul-patill/LC/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/rahul-patill/LC/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/rahul-patill/LC/tree/master/1480-running-sum-of-1d-array) |
