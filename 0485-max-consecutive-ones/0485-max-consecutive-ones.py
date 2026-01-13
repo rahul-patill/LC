@@ -13,7 +13,7 @@ class Solution:
             else:
                 i=j
                 ones = 0
-                if i<len(nums):
-                    i+=1
+                # if i<len(nums):
+                i+=1
             j+=1
         return ans
