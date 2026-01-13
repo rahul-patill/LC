@@ -1,4 +1,5 @@
 class Solution:
+    # same as 560. Subarray Sum Equals K
     def numSubarraysWithSum(self, nums: List[int], k: int) -> int:
         prefix = []
         d = defaultdict(int)
