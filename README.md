@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/rahul-patill/LC/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RahulPatilll/LC/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahul-patill/LC/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/RahulPatilll/LC/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/RahulPatilll/LC/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/rahul-patill/LC/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rahul-patill/LC/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahul-patill/LC/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -381,4 +383,8 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/rahul-patill/LC/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
