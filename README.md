@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-patill/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rahul-patill/LC/tree/master/0075-sort-colors) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Sorting
@@ -322,6 +324,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahul-patill/LC/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
