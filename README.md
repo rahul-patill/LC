@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rahul-patill/LC/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-patill/LC/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0118-pascals-triangle](https://github.com/rahul-patill/LC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-patill/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
@@ -330,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/rahul-patill/LC/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahul-patill/LC/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rahul-patill/LC/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/rahul-patill/LC/tree/master/0392-is-subsequence) |
