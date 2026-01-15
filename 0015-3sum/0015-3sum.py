@@ -1,25 +1,39 @@
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         nums.sort()
-        ans = set() #storing the duplicate triplet
+        ans = []  # storing the duplicate triplet
         result = []
+        print("sorted ", nums)
 
-        for i in range(0, len(nums)-2):
-            l = i+1
-            r = len(nums)-1
+        for i in range(0, len(nums) - 2):
+            if i > 0 and nums[i - 1] == nums[i]:
+                print("i value",i)
+                continue
 
-            while l<r:
-                if nums[i]+nums[l]+nums[r] == 0:
-                    ans.add((nums[i],nums[l],nums[r]))
-                    l+=1
-                    r-=1
-                elif nums[i]+nums[l]+nums[r] < 0:
-                    l+=1
-                elif nums[i]+nums[l]+nums[r] > 0:
-                    r-=1
-        
-        for items in ans:
-            print((items))
-            result.append((items))
-        
-        return result
+            l = i + 1
+            r = len(nums) - 1
+
+            while l < r:
+                if nums[i] + nums[l] + nums[r] == 0:
+                    ans.append([nums[i], nums[l], nums[r]])
+                    print(
+                        "i ", i, "l ", l, "r ", r, "ans ", [nums[i], nums[l], nums[r]]
+                    )
+                
+                    while l<r and nums[l] == nums[l+1]:
+                        l+=1
+
+                    while l<r and nums[r-1] == nums[r]:
+                        r-=1
+
+                    
+
+                    l += 1
+                    r -= 1
+
+                elif nums[i] + nums[l] + nums[r] < 0:
+                    l += 1
+                elif nums[i] + nums[l] + nums[r] > 0:
+                    r -= 1
+
+        return ans
