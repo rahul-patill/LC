@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/rahul-patill/LC/tree/master/0209-minimum-size-subarray-sum) |
+| [0229-majority-element-ii](https://github.com/rahul-patill/LC/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rahul-patill/LC/tree/master/0283-move-zeroes) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rahul-patill/LC/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rahul-patill/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rahul-patill/LC/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rahul-patill/LC/tree/master/0229-majority-element-ii) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rahul-patill/LC/tree/master/1510-find-lucky-integer-in-an-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RahulPatilll/LC/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -222,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/rahul-patill/LC/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/rahul-patill/LC/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rahul-patill/LC/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rahul-patill/LC/tree/master/0268-missing-number) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/rahul-patill/LC/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
