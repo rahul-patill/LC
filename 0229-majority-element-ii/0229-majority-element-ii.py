@@ -1,7 +1,7 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> List[int]:
 
-        mj1, mj2 = None, None
+        mj1, mj2 = 0, 0
         c1, c2 = 0, 0
         result = []
         n = len(nums)
@@ -26,7 +26,7 @@ class Solution:
         for i in nums:
             if i == mj1:
                 c1 += 1
-            if i == mj2:
+            elif i == mj2:
                 c2 += 1
 
         if c1 > floor(n / 3):
