@@ -8,12 +8,11 @@ class Solution:
         while j<len(nums):
             
             if nums[j] == 1:
-                ones+=1
-                ans = max(ones,ans)
+                
+                ans = max(j-i+1,ans)
             else:
-                i=j
-                ones = 0
-                # if i<len(nums):
-                i+=1
+                i = j
+                if i+1<len(nums):
+                    i+=1
             j+=1
         return ans
