@@ -4,8 +4,11 @@ class Solution:
         Do not return anything, modify matrix in-place instead.
         """
         def setZero(list_number, index_number,m,n):
-            new_list = [0]*m
-            matrix[list_number] = new_list
+            # new_list = [0]*m
+            # matrix[list_number] = new_list
+
+            for i in range(0,m):
+                matrix[list_number][i] = 0
 
             for i in range(0,n):
                 matrix[i][index_number] = 0
