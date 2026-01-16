@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/rahul-patill/LC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rahul-patill/LC/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/rahul-patill/LC/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahul-patill/LC/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/rahul-patill/LC/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rahul-patill/LC/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RahulPatilll/LC/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RahulPatilll/LC/tree/master/0169-majority-element) |
@@ -391,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rahul-patill/LC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
