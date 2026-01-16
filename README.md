@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/RahulPatilll/LC/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/rahul-patill/LC/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/rahul-patill/LC/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/rahul-patill/LC/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/rahul-patill/LC/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/rahul-patill/LC/tree/master/0189-rotate-array) |
@@ -22,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahul-patill/LC/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahul-patill/LC/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rahul-patill/LC/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/rahul-patill/LC/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/rahul-patill/LC/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rahul-patill/LC/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/rahul-patill/LC/tree/master/0056-merge-intervals) |
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rahul-patill/LC/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rahul-patill/LC/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rahul-patill/LC/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rahul-patill/LC/tree/master/0240-search-a-2d-matrix-ii) |
