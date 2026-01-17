@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0410-split-array-largest-sum](https://github.com/rahul-patill/LC/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/rahul-patill/LC/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul-patill/LC/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rahul-patill/LC/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rahul-patill/LC/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/rahul-patill/LC/tree/master/0724-find-pivot-index) |
@@ -190,12 +191,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/rahul-patill/LC/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rahul-patill/LC/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul-patill/LC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RahulPatilll/LC/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RahulPatilll/LC/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rahul-patill/LC/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/RahulPatilll/LC/tree/master/0739-daily-temperatures) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/RahulPatilll/LC/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 ## Trie
