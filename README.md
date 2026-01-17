@@ -139,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1524-string-matching-in-an-array](https://github.com/RahulPatilll/LC/tree/master/1524-string-matching-in-an-array) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/RahulPatilll/LC/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/RahulPatilll/LC/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3798-largest-even-number](https://github.com/rahul-patill/LC/tree/master/3798-largest-even-number) |
 ## Counting
 |  |
 | ------- |
